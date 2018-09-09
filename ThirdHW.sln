@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdHW", "ThirdHW\ThirdHW.csproj", "{4A20C248-5B3B-47B3-82C2-8DB33402D3CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdHWT", "ThirdHWT\ThirdHWT.csproj", "{F81C0B25-74CB-49A6-94D3-9B9C7AA7FEAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4A20C248-5B3B-47B3-82C2-8DB33402D3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A20C248-5B3B-47B3-82C2-8DB33402D3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A20C248-5B3B-47B3-82C2-8DB33402D3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81C0B25-74CB-49A6-94D3-9B9C7AA7FEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81C0B25-74CB-49A6-94D3-9B9C7AA7FEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81C0B25-74CB-49A6-94D3-9B9C7AA7FEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81C0B25-74CB-49A6-94D3-9B9C7AA7FEAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
